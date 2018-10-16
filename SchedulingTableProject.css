@@ -1,0 +1,26 @@
+/*
+* Victoria Corbo
+* October 18, 2018
+* Scheduling Table Project
+*/
+
+/* Body attributes here */
+
+body {
+    background-color: lightpink;
+}
+table, td, th { 
+    border: 1px solid blue;
+}
+table {
+    border-collapse:collapse;
+}
+thead{
+    background-color: lightgreen;
+}
+tbody {
+    background-color: lightgoldenrodyellow;
+}
+tfoot{
+    background-color: lightblue;
+}
